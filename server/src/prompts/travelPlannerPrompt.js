@@ -26,9 +26,9 @@ Returner denne JSON-strukturen eksakt:
 }
 
 Regler:
-- dailyPlan maa ha samme lengde som days.
-- Alle tekstfelt i svaret skal vaere paa norsk bokmal.
+- dailyPlan må ha samme lengde som days.
+- Alle tekstfelt i svaret skal være på norsk bokmål.
 - Inkluder praktiske og realistiske forslag.
-- Ta hensyn til budsjettnivaa.
+- Ta hensyn til budsjettnivå.
 - Ingen markdown. Kun JSON.`;
 }
